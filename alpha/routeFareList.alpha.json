@@ -376207,6 +376207,41 @@
                 ]
             }
         },
+        "HK2+2+KOWLOON STATION+[KMB Tour HK] TSIM SHA TSUI and TSING MA BRIDGE": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "[KMB Tour HK] TSIM SHA TSUI and TSING MA BRIDGE",
+                "zh": "[\u4e5d\u5df4\u904a\u9999\u6e2f] \u5c16\u6c99\u5480\u53ca\u9752\u99ac\u5927\u6a4b"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "KOWLOON STATION",
+                "zh": "\u4e5d\u9f8d\u7ad9"
+            },
+            "route": "HK2",
+            "seq": 6,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "5612949E7487F309",
+                    "24AD31E3F8DF42AE",
+                    "55852875C9223A6C",
+                    "D6D0F24D89C90323",
+                    "1F170F80E7CB2C2E",
+                    "24AA3CCF69A6572D"
+                ]
+            }
+        },
         "IICHCMUW+1+CHEUNG CHAU+MUI WO": {
             "bound": {
                 "sunferry": "I"
@@ -471503,8 +471538,8 @@
                 "lng": 114.14044
             },
             "name": {
-                "en": "Tai Pak Tin Street, near North Kwai Chung Clinic",
-                "zh": "\u5927\u767d\u7530\u8857, \u8fd1\u5317\u8475\u6d8c\u8a3a\u7642\u6240"
+                "en": "Tai Pak Tin Street, near North Kwai Chung Family Medicine Clinic",
+                "zh": "\u5927\u767d\u7530\u8857, \u8fd1\u5317\u8475\u6d8c\u5bb6\u5ead\u91ab\u5b78\u8a3a\u6240"
             }
         },
         "20001658": {
@@ -471703,8 +471738,8 @@
                 "lng": 114.10604
             },
             "name": {
-                "en": "Tsing Luk Street, Near Tsing Yi Town General Out-Patient Clinic",
-                "zh": "\u9752\u7da0\u8857, \u8fd1\u9752\u8863\u5e02\u5340\u666e\u901a\u79d1\u9580\u8a3a\u8a3a\u6240"
+                "en": "Tsing Luk Street, outside Tsing Yi Town Family Medicine Clinic",
+                "zh": "\u9752\u7da0\u8857, \u9752\u8863\u5e02\u5340\u5bb6\u5ead\u91ab\u5b78\u8a3a\u6240\u5916"
             }
         },
         "20001734": {
