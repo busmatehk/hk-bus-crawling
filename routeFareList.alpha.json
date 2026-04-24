@@ -376207,41 +376207,6 @@
                 ]
             }
         },
-        "HK2+2+KOWLOON STATION+[KMB Tour HK] TSIM SHA TSUI and TSING MA BRIDGE": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "[KMB Tour HK] TSIM SHA TSUI and TSING MA BRIDGE",
-                "zh": "[\u4e5d\u5df4\u904a\u9999\u6e2f] \u5c16\u6c99\u5480\u53ca\u9752\u99ac\u5927\u6a4b"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "KOWLOON STATION",
-                "zh": "\u4e5d\u9f8d\u7ad9"
-            },
-            "route": "HK2",
-            "seq": 6,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "5612949E7487F309",
-                    "24AD31E3F8DF42AE",
-                    "55852875C9223A6C",
-                    "D6D0F24D89C90323",
-                    "1F170F80E7CB2C2E",
-                    "24AA3CCF69A6572D"
-                ]
-            }
-        },
         "IICHCMUW+1+CHEUNG CHAU+MUI WO": {
             "bound": {
                 "sunferry": "I"
@@ -562224,8 +562189,8 @@
         },
         "D6D0F24D89C90323": {
             "location": {
-                "lat": 22.30726,
-                "lng": 114.16751
+                "lat": 22.30878,
+                "lng": 114.16788
             },
             "name": {
                 "en": "FERRY STREET, YAU MA TEI POLICE STATION (YT325a)",
@@ -752896,6 +752861,12 @@
                 "9429666D064419BE"
             ]
         ],
+        "D6D0F24D89C90323": [
+            [
+                "kmb",
+                "DED3339EB26494EA"
+            ]
+        ],
         "D6D316FEAEC6793A": [
             [
                 "ctb",
@@ -756402,6 +756373,12 @@
             [
                 "kmb",
                 "AD97EA183A25102C"
+            ]
+        ],
+        "DED3339EB26494EA": [
+            [
+                "kmb",
+                "D6D0F24D89C90323"
             ]
         ],
         "DEDB881565114677": [
